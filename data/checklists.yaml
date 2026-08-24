@@ -1,0 +1,58 @@
+# Schema for the checklist collection.
+# Rendered by content/checklists/_index.md as a table.
+# The yaml_export flag marks checklists that also ship a machine-readable
+# variant for pipeline enforcement.
+
+- slug: production-readiness
+  title: "Production Readiness"
+  review_stage: "Pre go-live"
+  item_count: 42
+  owner: "Linda Mohamed"
+  licence: "CC BY 4.0"
+  description: "Reliability, observability, security, data, cost, and operability checks a service should pass before it carries real traffic."
+  sections:
+    - Reliability
+    - Observability
+    - Security
+    - Data
+    - Cost
+    - Operability
+  formats: [Markdown, PDF, YAML]
+  yaml_export: true
+  last_reviewed: "2026-05-30"
+
+- slug: ai-governance
+  title: "AI Governance"
+  review_stage: "Design and pre go-live"
+  item_count: 28
+  owner: "Linda Mohamed"
+  licence: "CC BY 4.0"
+  description: "Purpose limitation, data provenance, evaluation evidence, human oversight, and transparency, aligned to European regulatory expectations."
+  sections:
+    - Purpose and scope
+    - Data provenance
+    - Evaluation evidence
+    - Human oversight
+    - Transparency
+    - Logging and retention
+  formats: [Markdown, PDF]
+  yaml_export: false
+  legal_advice: false
+  last_reviewed: "2026-06-20"
+
+- slug: cloud-security-baseline
+  title: "Cloud Security Baseline"
+  review_stage: "Foundation"
+  item_count: 35
+  owner: "Linda Mohamed"
+  licence: "CC BY 4.0"
+  description: "Day-one controls for a cloud estate, mapped to common audit frameworks and paired with the secure landing zone architecture."
+  sections:
+    - Identity
+    - Network and egress
+    - Logging and retention
+    - Encryption and keys
+    - Detection and response
+  formats: [Markdown, PDF, YAML]
+  yaml_export: true
+  last_reviewed: "2026-02-11"

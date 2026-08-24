@@ -1,0 +1,59 @@
+# Schema for the open playbook library.
+# Rendered by content/playbooks/_index.md as a filterable card grid.
+
+- slug: ai-readiness-assessment
+  title: "AI Readiness Assessment"
+  subtitle: "From vague ambition to a ranked, costed shortlist"
+  domain: ai
+  maturity: stable
+  version: "2.1"
+  effort: "2 weeks, 1 facilitator"
+  licence: "CC BY 4.0"
+  description: "A two-week structured assessment that scores candidate AI use cases on value, data availability, regulatory exposure, integration cost, and reversibility."
+  deliverables:
+    - Use case register
+    - Scored shortlist
+    - Data readiness heatmap
+    - Go or no-go memo
+  formats: [Markdown, PDF, Worksheet]
+  related_architectures: [retrieval-augmented-knowledge-base]
+  related_checklists: [ai-governance]
+  last_reviewed: "2026-05-14"
+
+- slug: agentic-systems-in-production
+  title: "Agentic Systems in Production"
+  subtitle: "Closing the gap between the demo and the on-call rota"
+  domain: ai
+  maturity: reviewed
+  version: "1.4"
+  effort: "4 to 8 weeks, small team"
+  licence: "CC BY 4.0"
+  description: "Operating model, evaluation harness, cost model, and runbook for multi-agent systems that need to survive real traffic and real incidents."
+  deliverables:
+    - Operating model
+    - Evaluation harness
+    - Cost model
+    - Runbook
+  formats: [Markdown, PDF, Example repository]
+  related_architectures: [multi-agent-orchestration]
+  related_checklists: [production-readiness]
+  last_reviewed: "2026-06-02"
+
+- slug: cloud-cost-baseline
+  title: "Cloud Cost Baseline"
+  subtitle: "A defensible unit cost metric in ten working days"
+  domain: cost
+  maturity: stable
+  version: "3.0"
+  effort: "10 days, 1 engineer part-time"
+  licence: "CC BY 4.0"
+  description: "Architecture-neutral approach to tagging, allocation, and unit cost definition, followed by a waste register that finance and engineering both accept."
+  deliverables:
+    - Tagged cost baseline
+    - Waste register
+    - Unit cost metric
+    - 90 day plan
+  formats: [Markdown, PDF, Spreadsheet]
+  related_architectures: [serverless-data-platform, secure-landing-zone]
+  related_checklists: [production-readiness]
+  last_reviewed: "2026-03-28"

@@ -1,0 +1,59 @@
+# Schema for the reference architecture set.
+# Rendered by content/architectures/_index.md. Every entry must carry a
+# "when_not_to_use" list, that field is what separates a reference from a pitch.
+
+- slug: multi-agent-orchestration
+  title: "Multi-Agent Orchestration"
+  problem: "Work needs routing across specialised agents without losing traceability or budget control."
+  maturity: reviewed
+  clouds: [AWS, Azure, Cloud-neutral]
+  c4_levels: [Context, Container]
+  adr_count: 6
+  licence: "CC BY 4.0"
+  artefacts:
+    - Context and container diagrams
+    - Six architecture decision records
+    - Trace schema reference
+  when_not_to_use:
+    - Single-step tasks with a deterministic answer
+    - Hard sub-second latency ceilings
+    - Tool side effects with unclear ownership
+  related_playbooks: [agentic-systems-in-production]
+  last_reviewed: "2026-06-02"
+
+- slug: retrieval-augmented-knowledge-base
+  title: "Retrieval Augmented Knowledge Base"
+  problem: "Answers must be grounded in a large, permission-controlled corpus that changes constantly."
+  maturity: stable
+  clouds: [AWS, Azure, GCP, Cloud-neutral]
+  c4_levels: [Context, Container, Component]
+  adr_count: 8
+  licence: "CC BY 4.0"
+  artefacts:
+    - Ingestion pipeline diagram
+    - Permission-aware retrieval patterns
+    - Evaluation design template
+  when_not_to_use:
+    - Small stable corpora that fit in a context window
+    - Structured data better served by SQL
+    - Corpora with no permission model to inherit
+  related_playbooks: [data-platform-foundations, ai-readiness-assessment]
+  last_reviewed: "2026-04-19"
+
+- slug: secure-landing-zone
+  title: "Secure Landing Zone"
+  problem: "A new cloud estate needs identity, segmentation, logging, and guardrails before the first workload lands."
+  maturity: stable
+  clouds: [AWS, Azure]
+  c4_levels: [Context, Container]
+  adr_count: 9
+  licence: "CC BY 4.0"
+  artefacts:
+    - Account topology diagram
+    - Sample guardrail policy set
+    - Audit control mapping table
+  when_not_to_use:
+    - Single-team estates where the overhead exceeds the risk
+    - Short-lived experimental accounts with no production data
+  related_playbooks: [legacy-to-cloud-migration, cloud-cost-baseline]
+  last_reviewed: "2026-02-11"

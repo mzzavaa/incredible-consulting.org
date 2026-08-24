@@ -1,0 +1,51 @@
+# Schema for the research programme.
+# Rendered by content/research/_index.md and content/research/reports.md.
+# funders is required on every entry, including an empty list, because an
+# undisclosed funding line is worse than a disclosed one.
+
+- slug: eu-agent-adoption-2026
+  title: "Agent Adoption in European Mid-Market Teams"
+  status: published
+  published: "2026-06-10"
+  sample_size: 214
+  sample_description: "Engineering and platform leads at European organisations with 200 to 5000 staff"
+  headline: "Most agent projects stall at evaluation, not at model quality."
+  method: "Structured survey plus 22 follow-up interviews"
+  data_released: true
+  dataset_slug: eu-agent-adoption-2026-responses
+  formats: [PDF, Web, CSV]
+  licence: "CC BY 4.0"
+  funders: []
+  corrections: 1
+
+- slug: cloud-cost-transparency-2025
+  title: "Cloud Cost Transparency and the Missing Denominator"
+  status: published
+  published: "2025-11-04"
+  sample_size: 168
+  sample_description: "Platform and finance owners across Austria, Germany, and Switzerland"
+  headline: "Four in five teams report cloud spend but cannot express it per unit of business value."
+  method: "Survey plus anonymised billing data review with 9 organisations"
+  data_released: true
+  dataset_slug: cloud-cost-transparency-2025-survey
+  formats: [PDF, Web, CSV]
+  licence: "CC BY 4.0"
+  funders: []
+  corrections: 0
+
+- slug: public-sector-ai-readiness-2026
+  title: "Public Sector AI Readiness in the DACH Region"
+  status: recruiting
+  published: null
+  closes: "2026-10-31"
+  sample_target: 120
+  sample_description: "Digitalisation leads in municipal and federal bodies"
+  headline: null
+  method: "Survey plus structured interviews, questions published before fieldwork"
+  data_released: null
+  formats: [PDF, Web, CSV]
+  licence: "CC BY 4.0"
+  funders:
+    - name: "Open call"
+      influence: "None on questions, analysis, or findings"
+  corrections: 0

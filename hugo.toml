@@ -1,0 +1,63 @@
+baseURL = 'https://incredible-consulting.org/'
+locale = 'en-us'
+theme = "incredible"
+title = 'Incredible Consulting · Open Methodology'
+enableEmoji = false
+disableHugoGeneratorInject = true
+disableKinds = ['taxonomy', 'term']
+
+# Brand palette (applied in a later theming pass):
+#   green #3D8F37 · dark #0a1a08 · white #fff · bg #f8f9f6
+# Typeface: Inter
+
+[params]
+  description  = "Open playbooks, reference architectures, and research from the Incredible consulting practice. Free to read, free to reuse."
+  tagline      = "The methodology, in the open."
+  email        = "open@incredible-consulting.org"
+  linkedin     = "https://www.linkedin.com/in/lindamohamed"
+  github       = "https://github.com/linda-mhmd"
+  booking      = "https://outlook.office.com/book/hello@lindamohamed.com/?ismsaljsauthenabled"
+  parent       = "https://incredible-company.com/"
+  license      = "CC BY 4.0"
+  license_url  = "https://creativecommons.org/licenses/by/4.0/"
+  code_license = "MIT"
+  maintainer   = "Linda Mohamed · AWS Community Hero · Vienna, Austria"
+
+  # Sibling domains in the portfolio
+  consulting_com = "https://incredible-consulting.com/"
+  builders       = "https://incredible.builders/"
+  community      = "https://incredible.community/"
+  training       = "https://incredible.training/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+[[menus.main]]
+  name = "Reference Architectures"
+  url = "/architectures/"
+  weight = 20
+[[menus.main]]
+  name = "Checklists"
+  url = "/checklists/"
+  weight = 30
+[[menus.main]]
+  name = "Contribute"
+  url = "/contribute/"
+  weight = 40
+[[menus.main]]
+  name = "Glossary"
+  url = "/glossary/"
+  weight = 50
+[[menus.main]]
+  name = "Licensing and Reuse"
+  url = "/licensing/"
+  weight = 60
