@@ -2,7 +2,7 @@
 # themes/incredible is hardcoded to one domain.
 
 sublabel: "Method"
-booking_url: "https://outlook.office.com/book/hello@lindamohamed.com/"
+booking_url: "https://outlook.office.com/book/Letstalk@lindamohamed.com/?ismsaljsauthenabled"
 strapline: "The method, published openly and free to reuse."
 cta_line_1: "Take the method."
 cta_line_2: "Use it without asking."
@@ -15,3 +15,4 @@ family:
   - { name: "Builders",   url: "https://incredible.builders" }
   - { name: "Community",  url: "https://incredible.community" }
   - { name: "Training",   url: "https://incredible.training" }
+  - { name: "Linda Mohamed", url: "https://lindamohamed.com" }

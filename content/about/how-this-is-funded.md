@@ -3,6 +3,7 @@ title: "How This Is Funded"
 description: "Where the time and money behind this library come from, and the rules that keep funders out of the content."
 weight: 20
 draft: false
+image: "img/mood/armillary.webp"
 ---
 
 **Purpose.** Full financial transparency, because independence claims are worthless without disclosure. For readers, funders, and public sector bodies assessing conflicts.

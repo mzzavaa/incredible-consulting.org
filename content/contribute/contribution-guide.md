@@ -3,6 +3,7 @@ title: "Contribution Guide"
 description: "The practical steps from an idea to a merged artefact, including what makes a contribution likely to be accepted."
 weight: 10
 draft: false
+image: "img/mood/sphere.webp"
 ---
 
 **Purpose.** For first-time contributors who want to know the shape of the work before starting it. Reduces wasted effort on both sides.

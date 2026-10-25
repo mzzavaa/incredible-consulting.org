@@ -3,6 +3,7 @@ title: "Programmes"
 description: "Pro bono and reduced-rate work for non-profits, public bodies, and educators, with published selection criteria."
 weight: 90
 draft: false
+image: "img/mood/gyroscope.webp"
 ---
 
 **Purpose.** The public-good delivery arm. Where the rest of the site gives away artefacts, this gives away time, with transparent limits so it stays sustainable.

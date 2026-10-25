@@ -3,6 +3,7 @@ title: "Workshop Three: Decision"
 description: "A two-hour session with the decision maker present that produces a signed memo: proceed, proceed reduced, or stop."
 weight: 40
 draft: false
+image: "img/mood/gyroscope-small.webp"
 duration: "2 hours"
 participants: "Decision maker plus 3 to 5"
 licence: "CC BY 4.0"

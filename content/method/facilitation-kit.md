@@ -3,6 +3,7 @@ title: "Facilitation Kit"
 description: "Agendas, slide skeletons, worksheets, and prompts for running the three workshops without us in the room."
 weight: 50
 draft: false
+image: "img/mood/pantograph.webp"
 licence: "CC BY 4.0"
 formats: ["Markdown", "PDF", "Editable slides", "Miro board export"]
 ---

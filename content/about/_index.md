@@ -3,6 +3,7 @@ title: "About"
 description: "Who publishes this, why a working consultancy gives away its method, and how the open and commercial arms relate."
 weight: 100
 draft: false
+image: "img/mood/armillary.webp"
 ---
 
 **Purpose.** Establishes credibility and states the commercial relationship openly, so nobody has to guess what the catch is.

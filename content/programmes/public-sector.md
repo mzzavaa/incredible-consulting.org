@@ -3,6 +3,7 @@ title: "Public Sector Advisory"
 description: "Open, citable material for public bodies, plus reduced-rate advisory that respects procurement rules."
 weight: 30
 draft: false
+image: "img/mood/pour.webp"
 capacity: "Case by case"
 track: "Public sector"
 ---

@@ -3,6 +3,7 @@ title: "Open Datasets"
 description: "Anonymised survey and benchmark data behind the reports, released so results can be checked and extended."
 weight: 20
 draft: false
+image: "img/mood/emitter.webp"
 licence: "CC BY 4.0"
 formats: ["CSV", "Parquet", "JSON"]
 ---

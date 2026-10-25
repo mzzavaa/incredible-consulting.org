@@ -3,6 +3,7 @@ title: "Attribution and Trademark"
 description: "Ready-to-paste attribution strings, and the line between reusing the material and using the Incredible name."
 weight: 20
 draft: false
+image: "img/mood/key.webp"
 ---
 
 **Purpose.** Two related questions answered in one place: how to credit correctly, and when using the name would imply an endorsement that does not exist.

@@ -3,6 +3,7 @@ title: "Licensing and Reuse"
 description: "What you may do with everything here: read it, run it, teach it, sell services with it. The terms in plain language."
 weight: 70
 draft: false
+image: "img/mood/key.webp"
 ---
 
 **Purpose.** Removes the hesitation that stops people using open material. For consultancies, trainers, and internal teams who need certainty before putting our artefacts in front of a client.

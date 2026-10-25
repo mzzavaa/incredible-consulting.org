@@ -3,6 +3,7 @@ title: "Workshop Two: Architecture"
 description: "A working session that produces two or three candidate architectures with honest trade-offs, not one favoured answer."
 weight: 30
 draft: false
+image: "img/mood/pantograph.webp"
 duration: "4 hours"
 participants: "4 to 8, mostly technical"
 licence: "CC BY 4.0"

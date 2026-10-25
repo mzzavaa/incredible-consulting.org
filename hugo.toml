@@ -16,7 +16,6 @@ disableKinds = ['taxonomy', 'term']
   email        = "open@incredible-consulting.org"
   linkedin     = "https://www.linkedin.com/in/lindamohamed"
   github       = "https://github.com/linda-mhmd"
-  booking      = "https://outlook.office.com/book/hello@lindamohamed.com/?ismsaljsauthenabled"
   parent       = "https://incredible-company.com/"
   license      = "CC BY 4.0"
   license_url  = "https://creativecommons.org/licenses/by/4.0/"

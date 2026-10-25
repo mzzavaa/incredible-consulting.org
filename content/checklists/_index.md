@@ -3,6 +3,7 @@ title: "Checklists"
 description: "Short, printable checklists for the moments that matter: going live, passing an audit, or signing off a design."
 weight: 40
 draft: false
+image: "img/mood/dividers.webp"
 ---
 
 **Purpose.** Checklists are the most reused artefact in the library. This page keeps them findable and makes clear that each one is a gate, not a wish list.

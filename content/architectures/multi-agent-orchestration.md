@@ -3,6 +3,7 @@ title: "Multi-Agent Orchestration"
 description: "A reference pattern for routing work across specialised agents with bounded autonomy and traceable decisions."
 weight: 10
 draft: false
+image: "img/mood/gearwheel.webp"
 maturity: "reviewed"
 clouds: ["AWS", "Azure", "Cloud-neutral"]
 c4_levels: ["Context", "Container"]

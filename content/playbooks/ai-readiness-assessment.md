@@ -3,6 +3,7 @@ title: "AI Readiness Assessment"
 description: "A two-week structured assessment that turns vague AI ambition into a ranked, costed shortlist of candidate use cases."
 weight: 10
 draft: false
+image: "img/mood/instrument-case.webp"
 version: "2.1"
 maturity: "stable"
 domain: "AI"

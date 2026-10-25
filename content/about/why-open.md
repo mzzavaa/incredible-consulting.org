@@ -3,6 +3,7 @@ title: "Why This Is Open"
 description: "The argument for publishing the method: better work, better clients, and a shorter path from problem to decision."
 weight: 10
 draft: false
+image: "img/mood/armillary.webp"
 ---
 
 **Purpose.** The position piece. For sceptical readers wondering what a consultancy gains by publishing its own playbooks, and for other consultancies considering the same move.

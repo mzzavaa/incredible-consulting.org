@@ -3,6 +3,7 @@ title: "Take Part"
 description: "Join a study as a respondent, a reviewer, or a co-author. Participation is free and results come back to you first."
 weight: 30
 draft: false
+image: "img/mood/emitter.webp"
 ---
 
 **Purpose.** Recruitment page for the research programme. For practitioners, teams, and universities who want their reality represented in the data.

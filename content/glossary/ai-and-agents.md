@@ -3,6 +3,7 @@ title: "AI and Agents"
 description: "Definitions for models, agents, retrieval, evaluation, and the terms most often misused in AI project meetings."
 weight: 10
 draft: false
+image: "img/mood/prism.webp"
 term_count: 45
 licence: "CC BY 4.0"
 ---

@@ -3,6 +3,7 @@ title: "Library Changelog"
 description: "Every artefact version, what changed, and why, so readers can tell whether their copy is current."
 weight: 30
 draft: false
+image: "img/mood/armillary.webp"
 ---
 
 **Purpose.** Version discipline for a library that people fork and print. For anyone holding a downloaded copy who needs to know if it is stale.

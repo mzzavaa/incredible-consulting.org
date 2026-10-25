@@ -3,6 +3,7 @@ title: "Agentic Systems in Production"
 description: "How to take a multi-agent prototype from a laptop demo to a system that can be operated, observed, and paid for."
 weight: 20
 draft: false
+image: "img/mood/instrument-case.webp"
 version: "1.4"
 maturity: "reviewed"
 domain: "AI"

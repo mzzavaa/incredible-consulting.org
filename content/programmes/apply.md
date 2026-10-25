@@ -3,6 +3,7 @@ title: "Apply"
 description: "One short application route for all three programme tracks, with published criteria and decision dates."
 weight: 40
 draft: false
+image: "img/mood/pour.webp"
 ---
 
 **Purpose.** A single, low-friction entry point. Long application forms select for organisations with grant writers, not for organisations with need.

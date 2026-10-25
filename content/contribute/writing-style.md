@@ -3,6 +3,7 @@ title: "Writing Style"
 description: "House style for the library: direct, concrete, practitioner-level. No hype, no filler, no em-dashes."
 weight: 20
 draft: false
+image: "img/mood/sphere.webp"
 ---
 
 **Purpose.** Keeps forty-odd artefacts sounding like one library. For contributors and for anyone maintaining a fork.

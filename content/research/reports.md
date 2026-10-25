@@ -3,6 +3,7 @@ title: "Published Reports"
 description: "Every report published by the programme, with methodology notes, raw data, and a permanent citation."
 weight: 10
 draft: false
+image: "img/mood/emitter.webp"
 licence: "CC BY 4.0"
 formats: ["PDF", "Web", "CSV data"]
 ---

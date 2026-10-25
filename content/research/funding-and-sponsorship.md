@@ -3,6 +3,7 @@ title: "Funding and Sponsorship"
 description: "How the research programme is paid for, who has funded it, and the rules that keep sponsors away from findings."
 weight: 40
 draft: false
+image: "img/mood/emitter.webp"
 ---
 
 **Purpose.** Transparency page and, secondarily, the only place on this site with a commercial ask. It exists so readers can judge independence for themselves.

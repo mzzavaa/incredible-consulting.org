@@ -3,6 +3,7 @@ title: "Maintainers"
 description: "Who maintains which part of the library, and how to reach them directly."
 weight: 40
 draft: false
+image: "img/mood/sphere.webp"
 ---
 
 **Purpose.** Puts names against the work. For contributors who need a decision, and for readers assessing whether the material has real authorship.

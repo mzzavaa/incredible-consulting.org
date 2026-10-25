@@ -3,6 +3,7 @@ title: "Non-Profit and NGO Support"
 description: "Shorter advisory sessions and reviews for mission-driven organisations, plus guidance on provider credit programmes."
 weight: 20
 draft: false
+image: "img/mood/pour.webp"
 capacity: "Monthly clinic, 4 slots"
 track: "Non-profit"
 ---

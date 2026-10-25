@@ -3,6 +3,7 @@ title: "Cloud Security Baseline"
 description: "The controls that should exist on day one of a cloud estate, mapped to common audit frameworks."
 weight: 30
 draft: false
+image: "img/mood/calipers.webp"
 item_count: 35
 review_stage: "Foundation"
 formats: ["Markdown", "PDF", "YAML"]

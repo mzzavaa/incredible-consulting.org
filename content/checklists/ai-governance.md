@@ -3,6 +3,7 @@ title: "AI Governance"
 description: "A practical governance checklist covering purpose limitation, data provenance, evaluation evidence, and human oversight."
 weight: 20
 draft: false
+image: "img/mood/calipers.webp"
 item_count: 28
 review_stage: "Design and pre go-live"
 formats: ["Markdown", "PDF"]

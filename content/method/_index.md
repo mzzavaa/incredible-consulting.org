@@ -3,6 +3,7 @@ title: "Methodology"
 description: "How the engagements are actually run: a three-workshop method that ends in a decision, not a deck."
 weight: 30
 draft: false
+image: "img/mood/arc.webp"
 ---
 
 **Purpose.** The methodology section explains the operating system behind the playbooks. It is written so another consultancy or an internal team can run it without us.

@@ -3,6 +3,7 @@ title: "Contribute"
 description: "This library is better when practitioners who ran it in anger send back what broke. Here is how to do that."
 weight: 80
 draft: false
+image: "img/mood/sphere.webp"
 ---
 
 **Purpose.** Turns readers into contributors. For practitioners, other consultancies, and students who have field evidence the library does not yet contain.

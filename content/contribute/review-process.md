@@ -3,6 +3,7 @@ title: "Review Process"
 description: "How submissions are reviewed, by whom, against what criteria, and how long it should take."
 weight: 30
 draft: false
+image: "img/mood/sphere.webp"
 sla: "First response within 10 working days"
 ---
 

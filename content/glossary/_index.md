@@ -3,6 +3,7 @@ title: "Glossary"
 description: "Plain definitions for the terms that get used loosely in AI and cloud projects, written for mixed audiences."
 weight: 60
 draft: false
+image: "img/mood/prism.webp"
 ---
 
 **Purpose.** A shared vocabulary page. It exists because most workshop confusion is vocabulary confusion, and because vendors redefine terms constantly.

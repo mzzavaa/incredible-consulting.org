@@ -3,6 +3,7 @@ title: "Production Readiness"
 description: "Forty-two checks across reliability, observability, security, and cost that a service should pass before it carries real traffic."
 weight: 10
 draft: false
+image: "img/mood/calipers.webp"
 item_count: 42
 review_stage: "Pre go-live"
 formats: ["Markdown", "PDF", "YAML"]

@@ -3,6 +3,7 @@ title: "Research and Reports"
 description: "Small, honest studies on how European teams actually adopt AI and cloud, published with methods and raw data."
 weight: 50
 draft: false
+image: "img/mood/lens.webp"
 ---
 
 **Purpose.** The research programme landing page. It exists to produce evidence the consulting practice and the wider community can both cite, with methodology transparent enough to be criticised.

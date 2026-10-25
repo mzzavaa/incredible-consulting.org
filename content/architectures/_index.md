@@ -3,6 +3,7 @@ title: "Reference Architectures"
 description: "Diagrams and decision records for patterns we deploy repeatedly, with the trade-offs written down rather than implied."
 weight: 20
 draft: false
+image: "img/mood/glass-stack.webp"
 ---
 
 **Purpose.** A reference set for architects who want a defensible starting point plus the reasoning behind it. Every entry states the problem, the pattern, and the conditions under which it is the wrong choice.

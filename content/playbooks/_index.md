@@ -3,6 +3,7 @@ title: "Open Playbooks"
 description: "The step-by-step playbooks the commercial practice runs, published in full and free to reuse under CC BY 4.0."
 weight: 10
 draft: false
+image: "img/mood/pen-and-paper.webp"
 ---
 
 **Purpose.** The library landing page. It is the main reason most people arrive here, so it has to make the whole collection scannable in under thirty seconds.

@@ -3,6 +3,7 @@ title: "Cloud Cost Baseline"
 description: "Establish a defensible cost baseline in ten working days, then cut the obvious waste without touching architecture."
 weight: 30
 draft: false
+image: "img/mood/instrument-case.webp"
 version: "3.0"
 maturity: "stable"
 domain: "Cost"
