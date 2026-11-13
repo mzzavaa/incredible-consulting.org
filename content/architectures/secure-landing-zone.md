@@ -2,7 +2,7 @@
 title: "Secure Landing Zone"
 description: "A multi-account baseline covering identity, network segmentation, logging, and guardrails before the first workload lands."
 weight: 40
-draft: false
+draft: true
 image: "img/mood/gearwheel.webp"
 maturity: "stable"
 clouds: ["AWS", "Azure"]

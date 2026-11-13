@@ -2,7 +2,7 @@
 title: "Checklists"
 description: "Short, printable checklists for the moments that matter: going live, passing an audit, or signing off a design."
 weight: 40
-draft: false
+draft: true
 image: "img/mood/dividers.webp"
 ---
 

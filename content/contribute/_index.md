@@ -2,7 +2,7 @@
 title: "Contribute"
 description: "This library is better when practitioners who ran it in anger send back what broke. Here is how to do that."
 weight: 80
-draft: false
+draft: true
 image: "img/mood/sphere.webp"
 ---
 

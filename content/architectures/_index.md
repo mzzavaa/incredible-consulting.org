@@ -2,7 +2,7 @@
 title: "Reference Architectures"
 description: "Diagrams and decision records for patterns we deploy repeatedly, with the trade-offs written down rather than implied."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/glass-stack.webp"
 ---
 

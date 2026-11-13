@@ -2,7 +2,7 @@
 title: "Cloud and Platform"
 description: "Definitions for landing zones, platform engineering, data contracts, and cost terms used across the playbooks."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/prism.webp"
 term_count: 38
 licence: "CC BY 4.0"

@@ -1,7 +1,7 @@
 baseURL = 'https://incredible-consulting.org/'
 locale = 'en-us'
 theme = "incredible"
-title = 'Incredible Consulting · Open Methodology'
+title = 'Incredible Consulting · Open'
 enableEmoji = false
 disableHugoGeneratorInject = true
 disableKinds = ['taxonomy', 'term']
@@ -11,8 +11,8 @@ disableKinds = ['taxonomy', 'term']
 # Typeface: Inter
 
 [params]
-  description  = "Open playbooks, reference architectures, and research from the Incredible consulting practice. Free to read, free to reuse."
-  tagline      = "The methodology, in the open."
+  description  = "Every talk with its slides, and the courses, method and patterns in the AI Solutions Wiki. Free to read, use and share."
+  tagline      = "Everything I publish, in the open."
   email        = "open@incredible-consulting.org"
   linkedin     = "https://www.linkedin.com/in/lindamohamed"
   github       = "https://github.com/linda-mhmd"
@@ -24,6 +24,10 @@ disableKinds = ['taxonomy', 'term']
 
   # Sibling domains in the portfolio
   consulting_com = "https://incredible-consulting.com/"
+  # The unhyphenated domain forwards here. The two link to each other.
+  alias_domain   = "https://incredibleconsulting.org/"
+  founder        = "https://lindamohamed.com/"
+  wiki           = "https://ai-solutions.wiki/"
   builders       = "https://incredible.builders/"
   community      = "https://incredible.community/"
   training       = "https://incredible.training/"
@@ -37,26 +41,14 @@ disableKinds = ['taxonomy', 'term']
     endLevel = 3
 
 [[menus.main]]
-  name = "About"
-  url = "/about/"
+  name = "Talks and Slides"
+  url = "/talks/"
   weight = 10
 [[menus.main]]
-  name = "Reference Architectures"
-  url = "/architectures/"
+  name = "Wiki Material"
+  url = "/wiki/"
   weight = 20
-[[menus.main]]
-  name = "Checklists"
-  url = "/checklists/"
-  weight = 30
-[[menus.main]]
-  name = "Contribute"
-  url = "/contribute/"
-  weight = 40
-[[menus.main]]
-  name = "Glossary"
-  url = "/glossary/"
-  weight = 50
-[[menus.main]]
-  name = "Licensing and Reuse"
-  url = "/licensing/"
-  weight = 60
+
+# The method, playbook, checklist, architecture, research and programme
+# sections are specified as briefs and set to draft until they are written.
+# Add their menu entries back when the pages carry real copy.

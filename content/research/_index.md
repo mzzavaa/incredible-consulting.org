@@ -2,7 +2,7 @@
 title: "Research and Reports"
 description: "Small, honest studies on how European teams actually adopt AI and cloud, published with methods and raw data."
 weight: 50
-draft: false
+draft: true
 image: "img/mood/lens.webp"
 ---
 

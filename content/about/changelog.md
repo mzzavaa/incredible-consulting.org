@@ -2,7 +2,7 @@
 title: "Library Changelog"
 description: "Every artefact version, what changed, and why, so readers can tell whether their copy is current."
 weight: 30
-draft: false
+draft: true
 image: "img/mood/armillary.webp"
 ---
 

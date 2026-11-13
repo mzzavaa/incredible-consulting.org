@@ -2,7 +2,7 @@
 title: "Contribution Guide"
 description: "The practical steps from an idea to a merged artefact, including what makes a contribution likely to be accepted."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/sphere.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Attribution and Trademark"
 description: "Ready-to-paste attribution strings, and the line between reusing the material and using the Incredible name."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/key.webp"
 ---
 

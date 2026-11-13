@@ -2,7 +2,7 @@
 title: "Data Platform Foundations"
 description: "The minimum viable data platform: ingestion, contracts, quality gates, and access control that survive the first three teams."
 weight: 40
-draft: false
+draft: true
 image: "img/mood/instrument-case.webp"
 version: "1.2"
 maturity: "reviewed"

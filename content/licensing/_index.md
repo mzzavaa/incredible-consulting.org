@@ -2,7 +2,7 @@
 title: "Licensing and Reuse"
 description: "What you may do with everything here: read it, run it, teach it, sell services with it. The terms in plain language."
 weight: 70
-draft: false
+draft: true
 image: "img/mood/key.webp"
 ---
 

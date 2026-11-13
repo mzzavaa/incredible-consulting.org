@@ -2,7 +2,7 @@
 title: "Retrieval Augmented Knowledge Base"
 description: "A retrieval architecture that treats chunking, evaluation, and permissions as first-class design decisions."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/gearwheel.webp"
 maturity: "stable"
 clouds: ["AWS", "Azure", "GCP", "Cloud-neutral"]

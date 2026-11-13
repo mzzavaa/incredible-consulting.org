@@ -2,7 +2,7 @@
 title: "Apply"
 description: "One short application route for all three programme tracks, with published criteria and decision dates."
 weight: 40
-draft: false
+draft: true
 image: "img/mood/pour.webp"
 ---
 

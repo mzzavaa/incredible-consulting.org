@@ -2,7 +2,7 @@
 title: "Glossary"
 description: "Plain definitions for the terms that get used loosely in AI and cloud projects, written for mixed audiences."
 weight: 60
-draft: false
+draft: true
 image: "img/mood/prism.webp"
 ---
 

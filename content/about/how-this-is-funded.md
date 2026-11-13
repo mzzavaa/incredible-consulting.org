@@ -2,7 +2,7 @@
 title: "How This Is Funded"
 description: "Where the time and money behind this library come from, and the rules that keep funders out of the content."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/armillary.webp"
 ---
 

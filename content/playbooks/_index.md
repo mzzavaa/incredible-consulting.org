@@ -2,7 +2,7 @@
 title: "Open Playbooks"
 description: "The step-by-step playbooks the commercial practice runs, published in full and free to reuse under CC BY 4.0."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/pen-and-paper.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Writing Style"
 description: "House style for the library: direct, concrete, practitioner-level. No hype, no filler, no em-dashes."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/sphere.webp"
 ---
 

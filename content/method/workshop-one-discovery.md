@@ -2,7 +2,7 @@
 title: "Workshop One: Discovery"
 description: "A half-day session that converts a room full of ambitions into one written problem statement everyone signs."
 weight: 20
-draft: false
+draft: true
 image: "img/mood/pantograph.webp"
 duration: "4 hours"
 participants: "6 to 10, business and technical"

@@ -2,7 +2,7 @@
 title: "Pro Bono Projects"
 description: "A small number of full engagements each year at no cost, run with the same method as paid work."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/pour.webp"
 capacity: "12 days per year"
 track: "Pro bono"

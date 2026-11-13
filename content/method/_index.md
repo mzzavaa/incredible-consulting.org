@@ -2,7 +2,7 @@
 title: "Methodology"
 description: "How the engagements are actually run: a three-workshop method that ends in a decision, not a deck."
 weight: 30
-draft: false
+draft: true
 image: "img/mood/arc.webp"
 ---
 

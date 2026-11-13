@@ -2,7 +2,7 @@
 title: "Serverless Data Platform"
 description: "An event-driven ingestion and analytics platform sized for teams that cannot staff a platform team."
 weight: 30
-draft: false
+draft: true
 image: "img/mood/gearwheel.webp"
 maturity: "reviewed"
 clouds: ["AWS", "Cloud-neutral"]

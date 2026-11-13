@@ -2,7 +2,7 @@
 title: "About"
 description: "Who publishes this, why a working consultancy gives away its method, and how the open and commercial arms relate."
 weight: 100
-draft: false
+draft: true
 image: "img/mood/armillary.webp"
 ---
 

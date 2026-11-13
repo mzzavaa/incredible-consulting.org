@@ -2,7 +2,7 @@
 title: "Funding and Sponsorship"
 description: "How the research programme is paid for, who has funded it, and the rules that keep sponsors away from findings."
 weight: 40
-draft: false
+draft: true
 image: "img/mood/emitter.webp"
 ---
 

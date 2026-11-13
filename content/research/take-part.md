@@ -2,7 +2,7 @@
 title: "Take Part"
 description: "Join a study as a respondent, a reviewer, or a co-author. Participation is free and results come back to you first."
 weight: 30
-draft: false
+draft: true
 image: "img/mood/emitter.webp"
 ---
 

@@ -2,7 +2,7 @@
 title: "Reuse Terms"
 description: "The full licence position for text, diagrams, data, and code, including commercial and derivative use."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/key.webp"
 text_licence: "CC BY 4.0"
 code_licence: "MIT"

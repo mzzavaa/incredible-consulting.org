@@ -2,7 +2,7 @@
 title: "Legacy to Cloud Migration"
 description: "A wave-based migration approach that sequences by business risk instead of by technical convenience."
 weight: 50
-draft: false
+draft: true
 image: "img/mood/instrument-case.webp"
 version: "2.0"
 maturity: "stable"

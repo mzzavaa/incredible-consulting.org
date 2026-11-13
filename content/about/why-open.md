@@ -2,7 +2,7 @@
 title: "Why This Is Open"
 description: "The argument for publishing the method: better work, better clients, and a shorter path from problem to decision."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/armillary.webp"
 ---
 

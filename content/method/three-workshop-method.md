@@ -2,7 +2,7 @@
 title: "The Three-Workshop Method"
 description: "Discovery, architecture, decision. Three sessions across four weeks that end with a costed, owned go or no-go."
 weight: 10
-draft: false
+draft: true
 image: "img/mood/gyroscope-small.webp"
 duration: "4 weeks elapsed"
 sessions: 3

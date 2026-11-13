@@ -1,69 +1,59 @@
 ---
-title: "Incredible Consulting · Open Methodology"
-description: "The workshop formats, playbooks, checklists and reference architectures behind the commercial practice, published openly and free to reuse."
+title: "Incredible Consulting · Open"
+description: "Everything Linda Mohamed publishes in the open: every talk with its slides, and the courses, method and patterns written into the AI Solutions Wiki. Free to read, use and share."
 weight: 0
 draft: false
 image: "img/mood/plumb-line.webp"
+sections_eyebrow: "On this site"
+sections_line_1: "Start with the talks."
 
 hero:
-  eyebrow: "Published, not licensed"
-  line_1: "Take the method."
-  line_2: "Run it yourself."
+  eyebrow: "Published, not gated"
+  line_1: "Take the slides."
+  line_2: "Use the method."
   lede: >
-    The workshop formats, playbooks, checklists and reference architectures that
-    the commercial practice runs on, published in the open under a licence that
-    lets you use them without asking and without paying.
+    Every talk I have given, with its slides, and the courses, workshop method
+    and build patterns I have written into an open wiki. No email, no sign-up,
+    no paywall.
 ---
 
-Consultancies usually treat their method as the asset and the delivery as the
-product. That is backwards. The method is a set of questions in a sensible order;
-anyone can run it. What is hard is the judgement to know which answer is a
-problem, and you cannot publish that.
-
-So the method is here, in full, and free.
+Most of what I know ends up on a stage or in a workshop room, and then it is
+gone. This site is where it stays: one place for everything I publish in the
+open, free to read, use and share.
 
 ## What is published
 
-- **[The method](/method/).** The three-workshop format, the deliberate gaps
-  between sessions, and the results ladder from clarity through to a functional
-  product.
-- **[Playbooks](/playbooks/).** Step by step, with the facilitator notes and the
-  awkward questions written down.
-- **[Checklists](/checklists/).** The ones used before a go-live, before a
-  governance review, and before saying yes to a project.
-- **[Reference architectures](/architectures/).** With the constraint stated:
-  every one says when not to use it.
-- **[Research](/research/).** Open datasets and findings, with the funding
-  disclosed.
+- **[Every talk, with its slides](/talks/).** 23 events from 2022 to 2026, from
+  AWS re:Invent to a school hall in Pinkafeld. Each page has the session, the
+  slides where they are public, the services behind the build and the sources.
+- **[From my material into the wiki](/wiki/).** The courses, the three-workshop
+  method, the scoring framework and the build patterns that I turned into pages
+  on [ai-solutions.wiki](https://ai-solutions.wiki/).
 
 ## Why give it away
 
-Three honest reasons.
-
 **It is not the moat.** A team that runs the discovery workshop themselves and
-concludes they should not build the thing has been served well, and has cost us
-nothing we were going to earn.
+concludes they should not build the thing has been served well, and has cost me
+nothing I was going to earn.
 
 **Publishing it makes it better.** A format that has to be written down clearly
 enough for a stranger to run gets its vague steps found and fixed.
 
-**It is how the field improves.** Most failed AI projects fail in the same three
-ways, and none of them are technical. Anything that reduces that is worth more
+**It is how the field improves.** Most failed AI projects fail in the same few
+ways, and few of them are technical. Anything that reduces that is worth more
 than a proprietary framework nobody outside one firm has read.
 
-## Licensing
+## Using it
 
-Openly licensed for use, adaptation and commercial reuse, with attribution. You
-do not need permission and you do not need to tell us. See
-[licensing](/licensing/).
+Slides and talk pages are free to read, use and share with credit. The wiki
+content is licensed CC BY-NC-SA 4.0. Each page states its own terms.
 
-## The one commercial ask
+## Paid work lives elsewhere
 
-There is exactly one on this whole site, and it is for research funding rather
-than for consulting work. Delivery is sold on incredible-consulting.com, and
-this site links there once, from the method pages, rather than routing you.
+Nothing is sold here. If you want this built with you rather than read by you,
+the consulting practice is at
+[incredible-consulting.com](https://incredible-consulting.com/).
 
-## Contributing
-
-Corrections and additions are welcome, especially "this step does not work in a
-regulated environment and here is why". See [contribute](/contribute/).
+This site also answers at
+[incredibleconsulting.org](https://incredibleconsulting.org/), without the
+hyphen, which forwards here.
