@@ -10,11 +10,11 @@ cta_line_1: "Take the slides."
 cta_line_2: "Use it without asking."
 primary_cta: "See every talk"
 
-# Only domains that are live. Company, Builders and Community come back when
-# their sites are published.
+# Only domains that are live. Company, Builders, Community and Training come
+# back when their sites are published. incredible.training still serves an old
+# Netlify demo template, so it is not linked.
 family:
   - { name: "Consulting", url: "https://incredible-consulting.com" }
   - { name: "Open",       url: "https://incredible-consulting.org" }
-  - { name: "Training",   url: "https://incredible.training" }
   - { name: "AI Solutions Wiki", url: "https://ai-solutions.wiki" }
   - { name: "Linda Mohamed", url: "https://lindamohamed.com" }
